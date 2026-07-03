@@ -11,7 +11,6 @@ Testeo de operaciones aritméticas básicas entre registros (suma, resta y multi
 ### Precondiciones
 
 - Inicializar el procesador en un estado limpio.
-- Disponer de los registros `$zero` ($R[0]$), `$a0` ($R[4]$), `$a1` ($R[5]$), `$v0` ($R[8]$) y `$v1` ($R[9]$) habilitados para lectura y escritura.
 
 ### Código
 
